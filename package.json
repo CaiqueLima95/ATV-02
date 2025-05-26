@@ -1,23 +1,23 @@
 {
-  "name": "atv-02",
+  "name": "atv-03",
   "version": "1.0.0",
-  "description": "atividade_02",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaiqueLima95/PPI_ATV_02.git"
+    "url": "git+https://github.com/CaiqueLima95/ATV03_PPI.git"
   },
-  "author": "CaiqueLima",
+  "author": "Caique Lima",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CaiqueLima95/PPI_ATV_02/issues"
+    "url": "https://github.com/CaiqueLima95/ATV03_PPI/issues"
   },
-  "homepage": "https://github.com/CaiqueLima95/PPI_ATV_02#readme",
+  "homepage": "https://github.com/CaiqueLima95/ATV03_PPI#readme",
+  "description": "",
   "dependencies": {
     "express": "^5.1.0"
   }
