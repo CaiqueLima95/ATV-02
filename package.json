@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaiqueLima95/PPI_ATV_02.git"
+    "url": "git+https://github.com/CaiqueLima95/ATV-02.git"
   },
   "author": "CaiqueLima",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CaiqueLima95/PPI_ATV_02/issues"
+    "url": "https://github.com/CaiqueLima95/ATV-02/issues"
   },
-  "homepage": "https://github.com/CaiqueLima95/PPI_ATV_02#readme",
+  "homepage": "https://github.com/CaiqueLima95/ATV-02#readme",
   "dependencies": {
     "express": "^5.1.0"
   }
